@@ -2,7 +2,7 @@
 主要是通过git log统计对应的数据
 
 ## 设计文档
-[设计方案](./doc/DESIGIN.md)
+[设计方案](./doc/DESIGN.md)
 - t_gitcode.sql 创建数据表
 
 - run_collect.sh
