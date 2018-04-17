@@ -16,5 +16,5 @@
 
 ## 定时脚本
 ```
-0 2 * * * cd /root/mysql/git-state/bin;sh collect_counter.sh
+0 2 * * * cd /root/yongjing/git-state/bin;sh collect_counter.sh
 ```
