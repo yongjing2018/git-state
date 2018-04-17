@@ -18,3 +18,8 @@
 ```
 0 2 * * * cd /root/yongjing/git-state/bin;sh collect_counter.sh
 ```
+
+## 前置条件
+```
+yum install mysql -y
+```
