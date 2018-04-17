@@ -1,5 +1,5 @@
 业务流程：
-![处理流程图](.images/design.png "处理流程图")
+![处理流程图](./images/design.png "处理流程图")
 
 系统仅仅依赖ES和MQ，通过检查ES中的数据变化，将计算任务Event下发的到MQ（Event Bus）
 由于EventHandler进行处理将结果写入到DB（ES）中。
